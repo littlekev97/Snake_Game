@@ -1,5 +1,5 @@
 # Snake_Game
-Welcome to My Python Snake Game!
+Welcome to my Python Snake Game!
 
 Hi there! I'm thrilled to share my latest project, a Snake Game built with Python. As a self-taught programmer, diving into this project was both challenging and incredibly rewarding. Here's what went into creating it:
 
